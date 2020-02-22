@@ -1,0 +1,2 @@
+# Self-organizing-map-with-ANN
+This repository contains a hybrid model which contains unsupervised learning algorithm Self Organizing Map (SOM) with Artificial Neural Network (ANN). On a dataset of a bank on Credit Card Application. The model is going to first identify the data patterns with SOM and then with ANN to train and predict the probability of being fraudulent customer on the rest on dataset.
